@@ -2,10 +2,10 @@
 
 
 ## 👥 Team
-- Your Name – Utsav Lakhani
-- Teammate 1 – Dhaval Solanki
-- Teammate 2 – Anish Shah
-- Teammate 3 – Dhrumil Vaghela
+- Teammate 1 – Utsav Lakhani
+- Teammate 2 – Dhaval Solanki
+- Teammate 3 – Anish Shah
+- Teammate 4 – Dhrumil Vaghela
 
 ## 🏆 Hackathon Details
 - Event: Hackovate
